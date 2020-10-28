@@ -12,7 +12,7 @@ namespace Exceldata
                 List<string> mnfNumbers = new List<string>();
                 List<string> mnfPartQuantity = new List<string>();
                 System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
-                string filePath = @"C:\Users\tekorius\Desktop\Book1.xlsx";
+                string filePath = @"C:\Users\name\Desktop\Book1.xlsx";
                 int lookForMnf = 0;
                 int lookForMnfQuantity = 7;
 
